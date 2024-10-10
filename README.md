@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdsonGuarnaschelli
 - 👀 I’m interested in ... learn
-- 🌱 I’m currently learning ... developer back-end
-- 💞️ I’m looking to collaborate on ... developer back-end and python
+- 🌱 I’m currently learning ... developer back-end, front-end, sql...
+- 💞️ I’m looking to collaborate on ... Internship in the programming area, I'm a beginner.
 - 📫 How to reach me ... edsonmatiasdemelo@gmail.com
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Beyonce's biggest fan
