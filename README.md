@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Internship in the programming area, I'm a beginner.
 - 📫 How to reach me ... edsonmatiasdemelo@gmail.com
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Beyonce's biggest fan
+- ⚡ Fun fact: ... Scarlet Witch's biggest fan
 
 <!---
 EdsonGuarnaschelli/EdsonGuarnaschelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
